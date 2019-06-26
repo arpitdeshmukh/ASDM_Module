@@ -1,0 +1,32 @@
+Problem Definition
+
+I) Fabrikam is a MNC having 24 Offices all over the world.
+	1) Company wants to build and host Information Management Solutions in web and also wants to host internet public
+	   web site for customers to kinow about products with online shopping experience.
+	2) They require to build and host internet for employees to access Feedback Management and Leave Management System
+	   related information.
+	3) Fabrikam as Amazon webservices(AWS) cloud as I-a-a-S and the company wants to build and host this information
+	   system in public cloud Google Cloud Platform or AWS.
+
+II) Functional Requirements
+  
+A)Online Shopping	
+	1) Login
+	2) View Products
+	3) Add Products
+	4) Checkout
+
+B)For Feedback and Leave Management System
+	1) Login to Employee Account
+	2) View no. of leaves
+	3) Select type of leave
+	4) Apply for a leave
+	5) Feedback of the Engineer
+	6) Fill up the feedback form
+	7) Submit the feedback and leave form
+
+III) Non-Functional Requirements 
+
+1) Web Service
+2) Security to be provided for online transaction.
+3) Internet Connection
